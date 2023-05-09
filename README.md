@@ -1,8 +1,8 @@
-# AWS Multi Region Aurora with failover setup
+# AWS Multi Region Aurora with active/active setup
 
-## What we
+![diagram.png](images%2Fdiagram.png)
 
-are building
+## What we are building
 1. VPC in us-east-2
 2. VPC in eu-west-1
 3. Global AWS aurora cluster in us-east-2
