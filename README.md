@@ -1,4 +1,4 @@
-# AWS Multi Region Aurora with active/active setup
+# AWS Multi Region Aurora with failover setup
 
 ## What we
 
