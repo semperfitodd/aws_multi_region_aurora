@@ -1,0 +1,22 @@
+#  Local .terraform directories
+**/.terraform/*
+
+# Local terraform files
+terraform/backend.tf
+terraform/.terraform.lock.hcl
+
+# .tfstate files
+*.tfstate
+*.tfstate.*
+
+# .tfvars files
+*.tfvars
+
+# plan files
+terraform/plan.out
+*.zip
+
+.idea
+.iml
+
+.DS_Store
